@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/danvarga
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of http://danvarga.com
+* I am danvarga (https://keybase.io/danvarga) on keybase.
+* I have a public key with fingerprint 4E4B 19AC 5877 49CB 91B9  E7BC CB71 8998 1172 353E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4e4b19ac587749cb91b9e7bccb7189981172353e",
+            "host": "keybase.io",
+            "key_id": "cb7189981172353e",
+            "uid": "e728bdac1c6cd1e0a0fd20259f3a6600",
+            "username": "danvarga"
+        },
+        "service": {
+            "hostname": "danvarga.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1410467902,
+    "expire_in": 157680000,
+    "prev": "fe85f0ffa4e85ca9935e317f4085d46d8b0f2e74c8e06c32fd4d7778c4560802",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.3
+Comment: https://keybase.io/crypto
+
+yMHjAnicbZFfSBRRFMbXXC03TCsCi7KckiiW7c7szNyZfcjVsCzyTyRaUm4zd+6s
+0+rMOruuymI9WViQlJlSkg9R+KD5IJFF4lKpD0JgPRSCCBISJZSapSXWHamX6L7c
+e8/5fd85h/MyOd7miHsyUNZZuvdBXtxobLbGVrxp3cEoJRtKPeWJUgG8eqma7sdm
+0NT0MOWhWMzKtCghToCQFZEs0rKIoYyQDGlBFAWahoybc2PKSVUYIUtBbGQphF2a
+QWLk49MUEv0PX7OawJARZEVCNOKRQmMgAVVhAMOJqlvieQAsMIRNXarChFYkPSKZ
+folqcFIkGtEQtnq2Sv9DuJBRRbRB0wgbyKgkmYpwOOixhOH6oEXWYtn3x8Mna7pC
+5iaCCDZDmqFTHpqQKKxZpjRLA5aHImCcFK4Laib2aRbBQV4A5FhlcIRYqljgVKCq
+EkseSBJFN4fdNFRZIHAKyyuCDFQGQxYJGPDIzagKq0AIBcRyPBAAQ1lTVesG5XGT
+NiU/sQxpfl0K15iYangeO2O3xTlsiQlrrM3ZHEmpf/f5I3XtiigsPdvTPZ1/vqRo
+X/xhV/OQ2T7Gvq77Mjn3uG285V2KPaP11fLyLWj2t0h8edH7/k9alGtLHyz+VdZ0
+9/rwsdLCe97vtXMoRTDSvy8WwI7ZpC1DPblvZV6/me+A7MMD13qeHm8uubL1SM6b
+7JlTwHui+vPmxq6k2zTT3rdQPt/rCQRTN7izTGV618LRRx1dkUOldMfU/YmWGf3y
+RU+jkPbiQn4i+Jqpx+wf5kdOLsR+RkeS7dm9hecKJidseUFHzqVvs17XnauLCdrO
+j60jTWfH0pactu3jUysBNOrNXcwczGoZLs+gTztTKjv7bmxLcHbvDsTvX7/RvyM2
+8Bt4Ggwm
+=+NeJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danvarga
+
+==================================================================
